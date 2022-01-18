@@ -8,7 +8,8 @@ Ajayi Ebenezer Akinyemi is a third-year Ph.D. student in the Faculty of Informat
 Python, C++,  Pytorch, libigl 
 
 ### Education 
-![image](https://user-images.githubusercontent.com/32791222/149966497-6dae7a82-939b-46cd-bae1-3f03c7add06e.png)
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 Multimedia Univeristy (MMU), Malaysia<br>
 Third-year Ph.D. in Information System Lab, . Oct. 2019 - Present<br>
 Supervisor: Dr. Lim Kian Ming   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Supervisor: Dr. Chong Siew Chin
+![Alt](https://user-images.githubusercontent.com/32791222/149966497-6dae7a82-939b-46cd-bae1-3f03c7add06e.png)
