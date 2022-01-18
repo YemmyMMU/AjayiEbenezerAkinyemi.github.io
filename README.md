@@ -52,4 +52,9 @@ Courses Taught
 </ol>
 
 **Computer Science Department, Kebbi State Polytechnic Dakingari (Senior Lecturer  April. 2015 - Present)** 
+<ol>
+<li>Teaching and Supervising students progect and seminar </li>
+<li>Administartive functions</li> 
+</ol>
+
 <br>
