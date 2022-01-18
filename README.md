@@ -9,4 +9,6 @@ Python, C++,  Pytorch, libigl
 
 ### Education 
 ![image](https://user-images.githubusercontent.com/32791222/149966497-6dae7a82-939b-46cd-bae1-3f03c7add06e.png)
-
+Multimedia Univeristy (MMU), Malaysia<br>
+Third-year Ph.D. in Information System Lab, . Oct. 2019 - Present<br>
+Supervisor: Dr Lim Kian Ming
