@@ -12,3 +12,9 @@ Python, C++,  Pytorch, libigl
 Multimedia Univeristy (MMU), Malaysia<br>
 Third-year Ph.D. in Information System Lab, . Oct. 2019 - Present<br>
 Supervisor: Dr. Lim Kian Ming   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Supervisor: Dr. Chong Siew Chin
+<br>
+<br/>
+<img align="left" width="100" height="100" src="https://www.publicprocurement.ng/wp-content/uploads/2020/07/Federal-University-of-Technology-Akure-FUTA-Logo-300x296.jpeg">
+Federal Univeristy of Technology Akure (FUTA) Ondo State Nigeria<br>
+Third-year Ph.D. in Information System Lab, . Oct. 2019 - Present<br>
+Supervisor: Dr. Lim Kian Ming   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Supervisor: Dr. Chong Siew Chin
