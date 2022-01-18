@@ -38,7 +38,7 @@ GPA: 3.13/4.00&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (2/126)<br>
 <br>
 <br/>
 
-### Exprence 
+### Experience  
 **Faculty of Information Science and Technology, Multimedia Univeristy, Malaysia (MMU-GRA Oct. 2019 - Present)** 
 <br>
 Courses Taught 
@@ -47,7 +47,9 @@ Courses Taught
 <li>Artificial Intelligence Fundamentals </li>
 <li>Semantic Web Technologies </li>
 <li>Database Management System</li>  
-<li>Data Cmmuicatin </li>    
+<li>Data Communication </li>    
 <li>Database Management System</li>    
 </ol>
 
+**Computer Science Department, Kebbi State Polytechnic Dakingari (Senior Lecturer  April. 2015 - Present)** 
+<br>
