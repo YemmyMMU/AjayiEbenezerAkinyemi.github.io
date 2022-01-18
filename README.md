@@ -8,4 +8,5 @@ Ajayi Ebenezer Akinyemi is a third-year Ph.D. student in the Faculty of Informat
 Python, C++,  Pytorch, libigl 
 
 ### Education 
-![Graduate Research Assistant/ PhD Student ](https://avatars.githubusercontent.com/u/32791222?v=4)
+![image](https://user-images.githubusercontent.com/32791222/149966497-6dae7a82-939b-46cd-bae1-3f03c7add06e.png)
+
