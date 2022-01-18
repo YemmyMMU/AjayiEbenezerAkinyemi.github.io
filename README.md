@@ -26,3 +26,10 @@ Federal Univeristy of Technology Minna (FUTMinna) Niger State Nigeria<br>
 Post Graduate Diploma in Computer Science  Jan. 2008<br>
 GPA: 4.52/5.00<br>
 Supervisor: Prof N. Akinwande 
+<br>
+<br/>
+<img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/32791222/149991158-28103a2a-65d8-49f3-a3bb-dd170a3f35e5.png">
+The Federal Polytechnic Offa(FedPoffa) Kwara State Nigeria<br>
+Higher National Diploma in Computer Science  Nov. 2002<br>
+GPA: 3.13/4.00&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (2/126)<br>
+
