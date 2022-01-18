@@ -56,5 +56,14 @@ Courses Taught
 <li>Teaching and Supervising students progect and seminar </li>
 <li>Administartive functions</li> 
 </ol>
-
 <br>
+
+### Paper Review
+<ol>
+<li>IntechOpen		       -  January 2022 – Present </li>
+<li>Artificial Intelligence Reviews - January 2020 –Present</li>
+<li>IEEE Access		    -	      November 2020 – Present</li>
+<li>IET Computer Vision 	-  	November 2020 – Present/li>  
+  
+</ol>
+
