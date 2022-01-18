@@ -16,5 +16,13 @@ Supervisor: Dr. Lim Kian Ming   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <br/>
 <img align="left" width="100" height="100" src="https://www.publicprocurement.ng/wp-content/uploads/2020/07/Federal-University-of-Technology-Akure-FUTA-Logo-300x296.jpeg">
 Federal Univeristy of Technology Akure (FUTA) Ondo State Nigeria<br>
-Third-year Ph.D. in Information System Lab, . Oct. 2019 - Present<br>
-Supervisor: Dr. Lim Kian Ming   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Supervisor: Dr. Chong Siew Chin
+Master of Technology in Computer Science (Cyber-Security) August 2014<br>
+GPA: 4.00/5.00<br>
+Supervisor: Prof B.K ALese   &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Co-Supervisor: Dr. F.M Dahunsi
+<br>
+<br/>
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/32791222/149988995-c565bd43-a8ab-42e2-b46c-80a296081c78.png">
+Federal Univeristy of Technology Minna (FUTMinna) Niger State Nigeria<br>
+Post Graduate Diploma in Computer Science  Jan. 2008<br>
+GPA: 4.52/5.00<br>
+Supervisor: Prof N. Akinwande 
